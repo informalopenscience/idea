@@ -75,6 +75,26 @@ Date       |Activity
 
 ### Science
 
+#### Which projects are already suggested?
+
+ * Use AI to classify the correct 
+   [Elephantiasis](https://en.wikipedia.org/wiki/Elephantiasis) 
+   stage from a photo.
+   Elephantiasis is a 7 stage disease that 150,000 people have today.
+   From a picture, as taken by a smartphone,
+   the stage needs to be predicted, as treatment differs per stage. 
+   The group of Alex Kwarteng in Ghana will deliver a labelled dataset.
+   It is assumed this has never been done yet.
+   The accuracy of the predictions is estimated to be low, as
+   the exterior of a leg has few features.
+ * Compare the predictions of three epitope prediction programs,
+   ([see here for an example of two programs](https://github.com/richelbilderbeek/ep_vs_mhcn)).
+   Based on the output of the three programs, determine if the three tools
+   agree on their predictions. This is a similar problem as when comparing
+   the output of noisy Celsius, Fahrenheit and Kelvin thermometers.
+ * [Solve a text-adventure book](https://github.com/richelbilderbeek/CityOfThieves/tree/master/Article#city-of-thieves-solved).
+   Determine the optimal solution how to play the game.
+
 #### How do we pick which project?
 
 By voting.
