@@ -1,7 +1,7 @@
 # idea
 
-This page describes the idea of IOS
-
+Branch     |[GitHub Actions](https://github.com/tresinformal/game/actions)                                       |[![Codecov logo](man/figures/Codecov.png)](https://www.codecov.io)
+-----------|-----------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------
 `master`   |![check](https://github.com/informalopenscience/idea/workflows/check/badge.svg?branch=master)   |[![codecov.io](https://codecov.io/github/informalopenscience/idea/coverage.svg?branch=master)](https://codecov.io/github/informalopenscience/idea/branch/master)
 `develop`  |![check](https://github.com/informalopenscience/idea/workflows/check/badge.svg?branch=develop)  |[![codecov.io](https://codecov.io/github/informalopenscience/idea/coverage.svg?branch=develop)](https://codecov.io/github/informalopenscience/idea/branch/develop)
 `richel`   |![check](https://github.com/informalopenscience/idea/workflows/check/badge.svg?branch=richel)   |[![codecov.io](https://codecov.io/github/informalopenscience/idea/coverage.svg?branch=richel)](https://codecov.io/github/informalopenscience/idea/branch/richel)
@@ -14,7 +14,7 @@ Science, done informally and professionally.
 
 To do science informally and professionally.
 
- * Informally: work comes first
+ * Informally: work comes first, no money
  * Professionally: the best Open Science practices
 
 ## Researching via Discord
@@ -34,9 +34,9 @@ We follow this timetable:
 What             | Time
 -----------------|------
 Doors open       | 17:00
-Lesson starts    | 17:15
+Work starts      | 17:15
 Break time!      | 18:00
-Lesson continues | 18:15
+Work continues   | 18:15
 End of lesson    | 19:00
 
 ## Code of Conduct
@@ -63,9 +63,70 @@ Timespan    |Activity
 
 Date       |Activity
 -----------|--------------------------------------------------------------------------
-2021-02-17 |practice git branching
+.          |collect ideas and team members
+.          |choose project
+.          |practice workflow
+.          |write article, do pilot runs
+.          |pre-register article, until acceptance
+.          |do experiment, write down results
+.          |publish results
 
-## I am a newbie researcher. What must I do?
+## FAQ
+
+### Science
+
+#### How do we pick which project?
+
+By voting.
+
+The exact procedure:
+
+ * Each team member can suggest any number of projects.
+ * Each project is presented in 5 minutes max.
+ * Each team member can vote on each project he/she would enjoy to do.
+ * The project with the most votes wins. 
+   In case of a draw, there are voting rounds between the winners, 
+   until there is a winner.
+
+#### What is meant with Open Science?
+
+Open Science is a diffuse concept.
+We follow these rules:
+
+ * Open communication: communication via GitHub Issues
+ * Open workflow: git keeps a history of our work, both for the paper,
+   as well as the experiment
+ * Open attribution: git shows that all authors contributed substantially
+ * No HARKing: we publish our article, with Introduction and Methods
+   before we do the actual experiment
+
+#### Where is the paper pre-registered?
+
+The only known candidate for now is [https://osf.io](https://osf.io).
+
+The team will vote where the paper is pre-registered.
+
+#### What is the intended journal?
+
+A platinum journal, in which one can publish open access articles for free.
+
+The team will vote which journal.
+
+ * Because the team is informal, there can be no money involved.
+ * Because the team does open science, the article must be open access.
+
+### Work
+
+#### What is meant with informal?
+
+ * Work goes first: you are always excused to be absent
+ * Having a beer is fine
+
+#### How can I contribute?
+
+You can help write the paper or the code or both. 
+
+#### I am a newbie researcher. What must I do?
 
 Welcome to the team! Here is a more-or-less-chronological (i.e. if you
 get stuck, start working on the next one) list of what to do:
@@ -78,7 +139,7 @@ get stuck, start working on the next one) list of what to do:
 
 When you feel comfortable with the workflow, you become a junior researcher!
 
-## I am a junior researcher, what should I do?
+#### I am a junior researcher, what should I do?
 
 Junior researcher are comfortable with the workflow,
 especially git and GitHub. 
@@ -98,7 +159,7 @@ Golden rules:
    unless you work on graphics
  * If all tests pass, we are -by definition- happy
 
-## I am a medior researcher, what should I do?
+#### I am a medior researcher, what should I do?
 
 A medior developer 
 
