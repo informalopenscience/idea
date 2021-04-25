@@ -8,6 +8,8 @@ Branch     |[GitHub Actions](https://github.com/tresinformal/game/actions)      
 
  * Branches are ordered `master`, `develop`, then topic branches alphabetically
 
+:warning: everything on this page is still a draft :warning:
+
 Science, done informally and professionally.
 
 ## Goal
