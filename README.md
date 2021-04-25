@@ -16,7 +16,7 @@ Science, done informally and professionally.
 
 To do science informally and professionally.
 
- * Informally: work comes first, no money
+ * Informally: work comes first, no money, no deadline
  * Professionally: the best Open Science practices
 
 ## Researching via Discord
