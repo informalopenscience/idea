@@ -99,16 +99,23 @@ Date       |Activity
 
 #### How do we pick which project?
 
-By voting.
+This is still open to debate:
 
-The exact procedure:
-
- * Each team member can suggest any number of projects.
- * Each project is presented in 5 minutes max.
- * Each team member can vote on each project he/she would enjoy to do.
- * The project with the most votes wins. 
-   In case of a draw, there are voting rounds between the winners, 
-   until there is a winner.
+ * Voting. The exact procedure:
+   * Each team member can suggest any number of projects.
+   * Each project is presented in 5 minutes max.
+   * Each team member can vote on each project he/she would enjoy to do.
+   * The project with the most votes wins. 
+     In case of a draw, there are voting rounds between the winners, 
+     until there is a winner.
+ * Consenus. The exact procedure:
+   * Each team member can suggest any number of projects.
+   * Each project is presented in 5 minutes max.
+   * Each team member can vote on each project he/she would enjoy to do.
+   * The project that has all team members on board wins. 
+     In case of a draw, there are voting rounds between the winners, 
+     until there is a winner.
+     When there is no winning project, this cycle repeats at a next meeting
 
 #### What is meant with Open Science?
 
