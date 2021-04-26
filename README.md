@@ -63,14 +63,19 @@ Timespan    |Activity
 
 ## Long-term schedule
 
+
+
 Date       |Activity
 -----------|--------------------------------------------------------------------------
-.          |collect ideas and team members
+.          |collect ideas and team members, [YouTube: Why Open Science](https://youtu.be/s4hsBBhEabs)
 .          |choose project
-.          |practice workflow
-.          |write article, do pilot runs
+.          |practice workflow, [GitHub: How to do Open Science](https://github.com/richelbilderbeek/how_to_do_open_science_example) [YouTube: setup workflow](https://youtu.be/mEvYOt8VOFU)
+.          |write first version, focus on hypotheses, [YouTube: Hypotheses](https://youtu.be/7BfZqdn2eYc)
+.          |write second version, focus on methods, [YouTube: Hypotheses](https://youtu.be/Zj1fb-Izrko)
+.          |rewrite for pre-registration
 .          |pre-register article, until acceptance
-.          |do experiment, write down results
+.          |do experiment
+.          |write down results
 .          |publish results
 
 ## FAQ
