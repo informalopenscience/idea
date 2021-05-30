@@ -29,19 +29,19 @@ He'll add you to the informalopenscience server.
 
 ## Meetings
 
- * Date: Weekly, every ?Friday
- * Time: ?17:00-19:00
+ * Date: Weekly, every Saturday/Sunday
+ * Time: To be determined
  * On Discord
 
-We follow this timetable:
+We follow this timetable, where `x` determines the starting time:
 
 What             | Time
 -----------------|------
-Doors open       | 17:00
-Work starts      | 17:15
-Break time!      | 18:00
-Work continues   | 18:15
-End of lesson    | 19:00
+Doors open       | x + 0:00
+Work starts      | x + 0:15
+Break time!      | x + 1:00
+Work continues   | x + 1:15
+End of session   | x + 2:00
 
 ## Code of Conduct
 
